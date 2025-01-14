@@ -1,1 +1,1 @@
-This is a complete langing page which is  created in wordpress 
+This is a complete landing page which is  created in wordpress 
