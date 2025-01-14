@@ -1,0 +1,8 @@
+[23-Dec-2024 11:18:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function lh() in /home/baapkidu/bakerystoke.uk/wp-content/plugins/elementskit-lite/wp-login.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/baapkidu/bakerystoke.uk/wp-content/plugins/elementskit-lite/wp-login.php on line 4
+[23-Dec-2024 11:18:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function lh() in /home/baapkidu/bakerystoke.uk/wp-content/plugins/elementskit-lite/wp-login.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/baapkidu/bakerystoke.uk/wp-content/plugins/elementskit-lite/wp-login.php on line 4

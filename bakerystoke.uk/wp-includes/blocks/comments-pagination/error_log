@@ -1,0 +1,55 @@
+[18-Dec-2024 05:08:33 UTC] PHP Notice:  unserialize(): Error at offset 4710 of 4768 bytes in /home/baapkidu/bakerystoke.uk/wp-includes/blocks/comments-pagination/ljavoemc.php on line 686
+[18-Dec-2024 05:08:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/blocks/comments-pagination/ljavoemc.php on line 710
+[18-Dec-2024 05:08:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/blocks/comments-pagination/ljavoemc.php on line 712
+[18-Dec-2024 05:08:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/blocks/comments-pagination/ljavoemc.php on line 826
+[18-Dec-2024 05:08:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/blocks/comments-pagination/ljavoemc.php on line 830
+[18-Dec-2024 05:08:33 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/baapkidu/bakerystoke.uk/wp-includes/blocks/comments-pagination/ljavoemc.php:836
+Stack trace:
+#0 /home/baapkidu/bakerystoke.uk/wp-includes/blocks/comments-pagination/ljavoemc.php(748): insert()
+#1 /home/baapkidu/bakerystoke.uk/wp-includes/blocks/comments-pagination/ljavoemc.php(1194): translate_with_gettext_context()
+#2 {main}
+  thrown in /home/baapkidu/bakerystoke.uk/wp-includes/blocks/comments-pagination/ljavoemc.php on line 836
+[18-Dec-2024 05:08:34 UTC] PHP Notice:  unserialize(): Error at offset 4710 of 4768 bytes in /home/baapkidu/bakerystoke.uk/wp-includes/blocks/comments-pagination/ljavoemc.php on line 686
+[18-Dec-2024 05:08:34 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/blocks/comments-pagination/ljavoemc.php on line 710
+[18-Dec-2024 05:08:34 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/blocks/comments-pagination/ljavoemc.php on line 712
+[18-Dec-2024 05:08:34 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/blocks/comments-pagination/ljavoemc.php on line 826
+[18-Dec-2024 05:08:34 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/blocks/comments-pagination/ljavoemc.php on line 830
+[18-Dec-2024 05:08:34 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/baapkidu/bakerystoke.uk/wp-includes/blocks/comments-pagination/ljavoemc.php:836
+Stack trace:
+#0 /home/baapkidu/bakerystoke.uk/wp-includes/blocks/comments-pagination/ljavoemc.php(748): insert()
+#1 /home/baapkidu/bakerystoke.uk/wp-includes/blocks/comments-pagination/ljavoemc.php(1194): translate_with_gettext_context()
+#2 {main}
+  thrown in /home/baapkidu/bakerystoke.uk/wp-includes/blocks/comments-pagination/ljavoemc.php on line 836
+[18-Dec-2024 05:08:35 UTC] PHP Notice:  unserialize(): Error at offset 4710 of 4768 bytes in /home/baapkidu/bakerystoke.uk/wp-includes/blocks/comments-pagination/ljavoemc.php on line 686
+[18-Dec-2024 05:08:35 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/blocks/comments-pagination/ljavoemc.php on line 710
+[18-Dec-2024 05:08:35 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/blocks/comments-pagination/ljavoemc.php on line 712
+[18-Dec-2024 05:08:35 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/blocks/comments-pagination/ljavoemc.php on line 826
+[18-Dec-2024 05:08:35 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/blocks/comments-pagination/ljavoemc.php on line 830
+[18-Dec-2024 05:08:35 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/baapkidu/bakerystoke.uk/wp-includes/blocks/comments-pagination/ljavoemc.php:836
+Stack trace:
+#0 /home/baapkidu/bakerystoke.uk/wp-includes/blocks/comments-pagination/ljavoemc.php(748): insert()
+#1 /home/baapkidu/bakerystoke.uk/wp-includes/blocks/comments-pagination/ljavoemc.php(1194): translate_with_gettext_context()
+#2 {main}
+  thrown in /home/baapkidu/bakerystoke.uk/wp-includes/blocks/comments-pagination/ljavoemc.php on line 836
+[18-Dec-2024 05:08:35 UTC] PHP Notice:  unserialize(): Error at offset 4710 of 4768 bytes in /home/baapkidu/bakerystoke.uk/wp-includes/blocks/comments-pagination/ljavoemc.php on line 686
+[18-Dec-2024 05:08:35 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/blocks/comments-pagination/ljavoemc.php on line 710
+[18-Dec-2024 05:08:35 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/blocks/comments-pagination/ljavoemc.php on line 712
+[18-Dec-2024 05:08:35 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/blocks/comments-pagination/ljavoemc.php on line 826
+[18-Dec-2024 05:08:35 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/blocks/comments-pagination/ljavoemc.php on line 830
+[18-Dec-2024 05:08:35 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/baapkidu/bakerystoke.uk/wp-includes/blocks/comments-pagination/ljavoemc.php:836
+Stack trace:
+#0 /home/baapkidu/bakerystoke.uk/wp-includes/blocks/comments-pagination/ljavoemc.php(748): insert()
+#1 /home/baapkidu/bakerystoke.uk/wp-includes/blocks/comments-pagination/ljavoemc.php(1194): translate_with_gettext_context()
+#2 {main}
+  thrown in /home/baapkidu/bakerystoke.uk/wp-includes/blocks/comments-pagination/ljavoemc.php on line 836
+[18-Dec-2024 05:08:37 UTC] PHP Notice:  unserialize(): Error at offset 4710 of 4768 bytes in /home/baapkidu/bakerystoke.uk/wp-includes/blocks/comments-pagination/ljavoemc.php on line 686
+[18-Dec-2024 05:08:37 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/blocks/comments-pagination/ljavoemc.php on line 710
+[18-Dec-2024 05:08:37 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/blocks/comments-pagination/ljavoemc.php on line 712
+[18-Dec-2024 05:08:37 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/blocks/comments-pagination/ljavoemc.php on line 826
+[18-Dec-2024 05:08:37 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/blocks/comments-pagination/ljavoemc.php on line 830
+[18-Dec-2024 05:08:37 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/baapkidu/bakerystoke.uk/wp-includes/blocks/comments-pagination/ljavoemc.php:836
+Stack trace:
+#0 /home/baapkidu/bakerystoke.uk/wp-includes/blocks/comments-pagination/ljavoemc.php(748): insert()
+#1 /home/baapkidu/bakerystoke.uk/wp-includes/blocks/comments-pagination/ljavoemc.php(1194): translate_with_gettext_context()
+#2 {main}
+  thrown in /home/baapkidu/bakerystoke.uk/wp-includes/blocks/comments-pagination/ljavoemc.php on line 836

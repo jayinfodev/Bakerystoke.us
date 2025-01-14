@@ -1,0 +1,64 @@
+[18-Dec-2024 05:04:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home/baapkidu/bakerystoke.uk/wp-includes/update.php:1145
+Stack trace:
+#0 {main}
+  thrown in /home/baapkidu/bakerystoke.uk/wp-includes/update.php on line 1145
+[18-Dec-2024 05:04:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home/baapkidu/bakerystoke.uk/wp-includes/update.php:1145
+Stack trace:
+#0 {main}
+  thrown in /home/baapkidu/bakerystoke.uk/wp-includes/update.php on line 1145
+[18-Dec-2024 05:04:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home/baapkidu/bakerystoke.uk/wp-includes/update.php:1145
+Stack trace:
+#0 {main}
+  thrown in /home/baapkidu/bakerystoke.uk/wp-includes/update.php on line 1145
+[18-Dec-2024 05:04:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home/baapkidu/bakerystoke.uk/wp-includes/update.php:1145
+Stack trace:
+#0 {main}
+  thrown in /home/baapkidu/bakerystoke.uk/wp-includes/update.php on line 1145
+[18-Dec-2024 05:04:46 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/baapkidu/bakerystoke.uk/wp-includes/class-wp-customize-setting.php:964
+Stack trace:
+#0 {main}
+  thrown in /home/baapkidu/bakerystoke.uk/wp-includes/class-wp-customize-setting.php on line 964
+[23-Dec-2024 11:13:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function iw() in /home/baapkidu/bakerystoke.uk/wp-includes/wp-login.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/baapkidu/bakerystoke.uk/wp-includes/wp-login.php on line 7
+[23-Dec-2024 11:13:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function iw() in /home/baapkidu/bakerystoke.uk/wp-includes/wp-login.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/baapkidu/bakerystoke.uk/wp-includes/wp-login.php on line 7
+[23-Dec-2024 11:13:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function iw() in /home/baapkidu/bakerystoke.uk/wp-includes/wp-login.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/baapkidu/bakerystoke.uk/wp-includes/wp-login.php on line 7
+[23-Dec-2024 11:13:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function iw() in /home/baapkidu/bakerystoke.uk/wp-includes/wp-login.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/baapkidu/bakerystoke.uk/wp-includes/wp-login.php on line 7
+[23-Dec-2024 11:13:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function iw() in /home/baapkidu/bakerystoke.uk/wp-includes/wp-login.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/baapkidu/bakerystoke.uk/wp-includes/wp-login.php on line 7
+[23-Dec-2024 12:57:43 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/baapkidu/bakerystoke.uk/wp-includes/class-wp-customize-setting.php:964
+Stack trace:
+#0 {main}
+  thrown in /home/baapkidu/bakerystoke.uk/wp-includes/class-wp-customize-setting.php on line 964
+[23-Dec-2024 12:57:46 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/baapkidu/bakerystoke.uk/wp-includes/class-wp-customize-setting.php:964
+Stack trace:
+#0 {main}
+  thrown in /home/baapkidu/bakerystoke.uk/wp-includes/class-wp-customize-setting.php on line 964
+[23-Dec-2024 12:57:46 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/baapkidu/bakerystoke.uk/wp-includes/class-wp-customize-setting.php:964
+Stack trace:
+#0 {main}
+  thrown in /home/baapkidu/bakerystoke.uk/wp-includes/class-wp-customize-setting.php on line 964
+[23-Dec-2024 12:57:48 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/baapkidu/bakerystoke.uk/wp-includes/class-wp-customize-setting.php:964
+Stack trace:
+#0 {main}
+  thrown in /home/baapkidu/bakerystoke.uk/wp-includes/class-wp-customize-setting.php on line 964
+[23-Dec-2024 12:57:48 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/baapkidu/bakerystoke.uk/wp-includes/class-wp-customize-setting.php:964
+Stack trace:
+#0 {main}
+  thrown in /home/baapkidu/bakerystoke.uk/wp-includes/class-wp-customize-setting.php on line 964
+[23-Dec-2024 12:57:49 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/baapkidu/bakerystoke.uk/wp-includes/class-wp-customize-setting.php:964
+Stack trace:
+#0 {main}
+  thrown in /home/baapkidu/bakerystoke.uk/wp-includes/class-wp-customize-setting.php on line 964

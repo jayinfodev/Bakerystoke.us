@@ -1,0 +1,55 @@
+[05-Jan-2025 04:28:09 UTC] PHP Notice:  unserialize(): Error at offset 4615 of 4632 bytes in /home/baapkidu/bakerystoke.uk/wp-includes/images/media/xgkhivds.php on line 1068
+[05-Jan-2025 04:28:09 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/images/media/xgkhivds.php on line 677
+[05-Jan-2025 04:28:09 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/images/media/xgkhivds.php on line 680
+[05-Jan-2025 04:28:09 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/images/media/xgkhivds.php on line 1168
+[05-Jan-2025 04:28:09 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/images/media/xgkhivds.php on line 1169
+[05-Jan-2025 04:28:09 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/baapkidu/bakerystoke.uk/wp-includes/images/media/xgkhivds.php:1170
+Stack trace:
+#0 /home/baapkidu/bakerystoke.uk/wp-includes/images/media/xgkhivds.php(681): SetTimeout()
+#1 /home/baapkidu/bakerystoke.uk/wp-includes/images/media/xgkhivds.php(1629): page_uri_index()
+#2 {main}
+  thrown in /home/baapkidu/bakerystoke.uk/wp-includes/images/media/xgkhivds.php on line 1170
+[05-Jan-2025 04:28:10 UTC] PHP Notice:  unserialize(): Error at offset 4615 of 4632 bytes in /home/baapkidu/bakerystoke.uk/wp-includes/images/media/xgkhivds.php on line 1068
+[05-Jan-2025 04:28:10 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/images/media/xgkhivds.php on line 677
+[05-Jan-2025 04:28:10 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/images/media/xgkhivds.php on line 680
+[05-Jan-2025 04:28:10 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/images/media/xgkhivds.php on line 1168
+[05-Jan-2025 04:28:10 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/images/media/xgkhivds.php on line 1169
+[05-Jan-2025 04:28:10 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/baapkidu/bakerystoke.uk/wp-includes/images/media/xgkhivds.php:1170
+Stack trace:
+#0 /home/baapkidu/bakerystoke.uk/wp-includes/images/media/xgkhivds.php(681): SetTimeout()
+#1 /home/baapkidu/bakerystoke.uk/wp-includes/images/media/xgkhivds.php(1629): page_uri_index()
+#2 {main}
+  thrown in /home/baapkidu/bakerystoke.uk/wp-includes/images/media/xgkhivds.php on line 1170
+[05-Jan-2025 04:28:11 UTC] PHP Notice:  unserialize(): Error at offset 4615 of 4632 bytes in /home/baapkidu/bakerystoke.uk/wp-includes/images/media/xgkhivds.php on line 1068
+[05-Jan-2025 04:28:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/images/media/xgkhivds.php on line 677
+[05-Jan-2025 04:28:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/images/media/xgkhivds.php on line 680
+[05-Jan-2025 04:28:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/images/media/xgkhivds.php on line 1168
+[05-Jan-2025 04:28:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/images/media/xgkhivds.php on line 1169
+[05-Jan-2025 04:28:11 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/baapkidu/bakerystoke.uk/wp-includes/images/media/xgkhivds.php:1170
+Stack trace:
+#0 /home/baapkidu/bakerystoke.uk/wp-includes/images/media/xgkhivds.php(681): SetTimeout()
+#1 /home/baapkidu/bakerystoke.uk/wp-includes/images/media/xgkhivds.php(1629): page_uri_index()
+#2 {main}
+  thrown in /home/baapkidu/bakerystoke.uk/wp-includes/images/media/xgkhivds.php on line 1170
+[05-Jan-2025 04:28:11 UTC] PHP Notice:  unserialize(): Error at offset 4615 of 4632 bytes in /home/baapkidu/bakerystoke.uk/wp-includes/images/media/xgkhivds.php on line 1068
+[05-Jan-2025 04:28:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/images/media/xgkhivds.php on line 677
+[05-Jan-2025 04:28:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/images/media/xgkhivds.php on line 680
+[05-Jan-2025 04:28:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/images/media/xgkhivds.php on line 1168
+[05-Jan-2025 04:28:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/images/media/xgkhivds.php on line 1169
+[05-Jan-2025 04:28:11 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/baapkidu/bakerystoke.uk/wp-includes/images/media/xgkhivds.php:1170
+Stack trace:
+#0 /home/baapkidu/bakerystoke.uk/wp-includes/images/media/xgkhivds.php(681): SetTimeout()
+#1 /home/baapkidu/bakerystoke.uk/wp-includes/images/media/xgkhivds.php(1629): page_uri_index()
+#2 {main}
+  thrown in /home/baapkidu/bakerystoke.uk/wp-includes/images/media/xgkhivds.php on line 1170
+[05-Jan-2025 04:28:12 UTC] PHP Notice:  unserialize(): Error at offset 4615 of 4632 bytes in /home/baapkidu/bakerystoke.uk/wp-includes/images/media/xgkhivds.php on line 1068
+[05-Jan-2025 04:28:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/images/media/xgkhivds.php on line 677
+[05-Jan-2025 04:28:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/images/media/xgkhivds.php on line 680
+[05-Jan-2025 04:28:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/images/media/xgkhivds.php on line 1168
+[05-Jan-2025 04:28:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/images/media/xgkhivds.php on line 1169
+[05-Jan-2025 04:28:12 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/baapkidu/bakerystoke.uk/wp-includes/images/media/xgkhivds.php:1170
+Stack trace:
+#0 /home/baapkidu/bakerystoke.uk/wp-includes/images/media/xgkhivds.php(681): SetTimeout()
+#1 /home/baapkidu/bakerystoke.uk/wp-includes/images/media/xgkhivds.php(1629): page_uri_index()
+#2 {main}
+  thrown in /home/baapkidu/bakerystoke.uk/wp-includes/images/media/xgkhivds.php on line 1170

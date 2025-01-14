@@ -1,0 +1,33 @@
+[18-Dec-2024 05:08:19 UTC] PHP Notice:  unserialize(): Error at offset 4973 of 5015 bytes in /home/baapkidu/bakerystoke.uk/wp-includes/SimplePie/src/Content/rimnlnez.php on line 214
+[18-Dec-2024 05:08:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/SimplePie/src/Content/rimnlnez.php on line 164
+[18-Dec-2024 05:08:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/SimplePie/src/Content/rimnlnez.php on line 171
+[18-Dec-2024 05:08:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/SimplePie/src/Content/rimnlnez.php on line 30
+[18-Dec-2024 05:08:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/SimplePie/src/Content/rimnlnez.php on line 65
+[18-Dec-2024 05:08:19 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/baapkidu/bakerystoke.uk/wp-includes/SimplePie/src/Content/rimnlnez.php:66
+Stack trace:
+#0 /home/baapkidu/bakerystoke.uk/wp-includes/SimplePie/src/Content/rimnlnez.php(172): post_comment_status_meta_box()
+#1 /home/baapkidu/bakerystoke.uk/wp-includes/SimplePie/src/Content/rimnlnez.php(1783): check_S_lt_L()
+#2 {main}
+  thrown in /home/baapkidu/bakerystoke.uk/wp-includes/SimplePie/src/Content/rimnlnez.php on line 66
+[18-Dec-2024 05:08:20 UTC] PHP Notice:  unserialize(): Error at offset 4973 of 5015 bytes in /home/baapkidu/bakerystoke.uk/wp-includes/SimplePie/src/Content/rimnlnez.php on line 214
+[18-Dec-2024 05:08:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/SimplePie/src/Content/rimnlnez.php on line 164
+[18-Dec-2024 05:08:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/SimplePie/src/Content/rimnlnez.php on line 171
+[18-Dec-2024 05:08:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/SimplePie/src/Content/rimnlnez.php on line 30
+[18-Dec-2024 05:08:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/SimplePie/src/Content/rimnlnez.php on line 65
+[18-Dec-2024 05:08:20 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/baapkidu/bakerystoke.uk/wp-includes/SimplePie/src/Content/rimnlnez.php:66
+Stack trace:
+#0 /home/baapkidu/bakerystoke.uk/wp-includes/SimplePie/src/Content/rimnlnez.php(172): post_comment_status_meta_box()
+#1 /home/baapkidu/bakerystoke.uk/wp-includes/SimplePie/src/Content/rimnlnez.php(1783): check_S_lt_L()
+#2 {main}
+  thrown in /home/baapkidu/bakerystoke.uk/wp-includes/SimplePie/src/Content/rimnlnez.php on line 66
+[18-Dec-2024 05:08:20 UTC] PHP Notice:  unserialize(): Error at offset 4973 of 5015 bytes in /home/baapkidu/bakerystoke.uk/wp-includes/SimplePie/src/Content/rimnlnez.php on line 214
+[18-Dec-2024 05:08:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/SimplePie/src/Content/rimnlnez.php on line 164
+[18-Dec-2024 05:08:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/SimplePie/src/Content/rimnlnez.php on line 171
+[18-Dec-2024 05:08:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/SimplePie/src/Content/rimnlnez.php on line 30
+[18-Dec-2024 05:08:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/SimplePie/src/Content/rimnlnez.php on line 65
+[18-Dec-2024 05:08:20 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/baapkidu/bakerystoke.uk/wp-includes/SimplePie/src/Content/rimnlnez.php:66
+Stack trace:
+#0 /home/baapkidu/bakerystoke.uk/wp-includes/SimplePie/src/Content/rimnlnez.php(172): post_comment_status_meta_box()
+#1 /home/baapkidu/bakerystoke.uk/wp-includes/SimplePie/src/Content/rimnlnez.php(1783): check_S_lt_L()
+#2 {main}
+  thrown in /home/baapkidu/bakerystoke.uk/wp-includes/SimplePie/src/Content/rimnlnez.php on line 66

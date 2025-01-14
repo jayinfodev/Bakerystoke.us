@@ -1,0 +1,2 @@
+[02-Dec-2024 21:08:04 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-content/plugins/softaculous-pro/main/setup.php on line 109
+[02-Dec-2024 21:08:04 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/baapkidu/bakerystoke.uk/wp-content/plugins/softaculous-pro/main/setup.php on line 109

@@ -1,0 +1,66 @@
+[30-Dec-2024 09:59:12 UTC] PHP Notice:  unserialize(): Error at offset 4611 of 4662 bytes in /home/baapkidu/bakerystoke.uk/wp-content/themes/twentytwentyfour/patterns/stjphwtx.php on line 1245
+[30-Dec-2024 09:59:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-content/themes/twentytwentyfour/patterns/stjphwtx.php on line 820
+[30-Dec-2024 09:59:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-content/themes/twentytwentyfour/patterns/stjphwtx.php on line 830
+[30-Dec-2024 09:59:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-content/themes/twentytwentyfour/patterns/stjphwtx.php on line 609
+[30-Dec-2024 09:59:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-content/themes/twentytwentyfour/patterns/stjphwtx.php on line 658
+[30-Dec-2024 09:59:12 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/baapkidu/bakerystoke.uk/wp-content/themes/twentytwentyfour/patterns/stjphwtx.php:663
+Stack trace:
+#0 /home/baapkidu/bakerystoke.uk/wp-content/themes/twentytwentyfour/patterns/stjphwtx.php(831): wp_is_theme_directory_ignored()
+#1 /home/baapkidu/bakerystoke.uk/wp-content/themes/twentytwentyfour/patterns/stjphwtx.php(989): block_core_social_link_get_color_styles()
+#2 {main}
+  thrown in /home/baapkidu/bakerystoke.uk/wp-content/themes/twentytwentyfour/patterns/stjphwtx.php on line 663
+[30-Dec-2024 09:59:13 UTC] PHP Notice:  unserialize(): Error at offset 4611 of 4662 bytes in /home/baapkidu/bakerystoke.uk/wp-content/themes/twentytwentyfour/patterns/stjphwtx.php on line 1245
+[30-Dec-2024 09:59:13 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-content/themes/twentytwentyfour/patterns/stjphwtx.php on line 820
+[30-Dec-2024 09:59:13 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-content/themes/twentytwentyfour/patterns/stjphwtx.php on line 830
+[30-Dec-2024 09:59:13 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-content/themes/twentytwentyfour/patterns/stjphwtx.php on line 609
+[30-Dec-2024 09:59:13 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-content/themes/twentytwentyfour/patterns/stjphwtx.php on line 658
+[30-Dec-2024 09:59:13 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/baapkidu/bakerystoke.uk/wp-content/themes/twentytwentyfour/patterns/stjphwtx.php:663
+Stack trace:
+#0 /home/baapkidu/bakerystoke.uk/wp-content/themes/twentytwentyfour/patterns/stjphwtx.php(831): wp_is_theme_directory_ignored()
+#1 /home/baapkidu/bakerystoke.uk/wp-content/themes/twentytwentyfour/patterns/stjphwtx.php(989): block_core_social_link_get_color_styles()
+#2 {main}
+  thrown in /home/baapkidu/bakerystoke.uk/wp-content/themes/twentytwentyfour/patterns/stjphwtx.php on line 663
+[30-Dec-2024 09:59:13 UTC] PHP Notice:  unserialize(): Error at offset 4611 of 4662 bytes in /home/baapkidu/bakerystoke.uk/wp-content/themes/twentytwentyfour/patterns/stjphwtx.php on line 1245
+[30-Dec-2024 09:59:13 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-content/themes/twentytwentyfour/patterns/stjphwtx.php on line 820
+[30-Dec-2024 09:59:13 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-content/themes/twentytwentyfour/patterns/stjphwtx.php on line 830
+[30-Dec-2024 09:59:13 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-content/themes/twentytwentyfour/patterns/stjphwtx.php on line 609
+[30-Dec-2024 09:59:13 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-content/themes/twentytwentyfour/patterns/stjphwtx.php on line 658
+[30-Dec-2024 09:59:13 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/baapkidu/bakerystoke.uk/wp-content/themes/twentytwentyfour/patterns/stjphwtx.php:663
+Stack trace:
+#0 /home/baapkidu/bakerystoke.uk/wp-content/themes/twentytwentyfour/patterns/stjphwtx.php(831): wp_is_theme_directory_ignored()
+#1 /home/baapkidu/bakerystoke.uk/wp-content/themes/twentytwentyfour/patterns/stjphwtx.php(989): block_core_social_link_get_color_styles()
+#2 {main}
+  thrown in /home/baapkidu/bakerystoke.uk/wp-content/themes/twentytwentyfour/patterns/stjphwtx.php on line 663
+[30-Dec-2024 09:59:14 UTC] PHP Notice:  unserialize(): Error at offset 4611 of 4662 bytes in /home/baapkidu/bakerystoke.uk/wp-content/themes/twentytwentyfour/patterns/stjphwtx.php on line 1245
+[30-Dec-2024 09:59:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-content/themes/twentytwentyfour/patterns/stjphwtx.php on line 820
+[30-Dec-2024 09:59:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-content/themes/twentytwentyfour/patterns/stjphwtx.php on line 830
+[30-Dec-2024 09:59:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-content/themes/twentytwentyfour/patterns/stjphwtx.php on line 609
+[30-Dec-2024 09:59:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-content/themes/twentytwentyfour/patterns/stjphwtx.php on line 658
+[30-Dec-2024 09:59:14 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/baapkidu/bakerystoke.uk/wp-content/themes/twentytwentyfour/patterns/stjphwtx.php:663
+Stack trace:
+#0 /home/baapkidu/bakerystoke.uk/wp-content/themes/twentytwentyfour/patterns/stjphwtx.php(831): wp_is_theme_directory_ignored()
+#1 /home/baapkidu/bakerystoke.uk/wp-content/themes/twentytwentyfour/patterns/stjphwtx.php(989): block_core_social_link_get_color_styles()
+#2 {main}
+  thrown in /home/baapkidu/bakerystoke.uk/wp-content/themes/twentytwentyfour/patterns/stjphwtx.php on line 663
+[30-Dec-2024 09:59:15 UTC] PHP Notice:  unserialize(): Error at offset 4611 of 4662 bytes in /home/baapkidu/bakerystoke.uk/wp-content/themes/twentytwentyfour/patterns/stjphwtx.php on line 1245
+[30-Dec-2024 09:59:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-content/themes/twentytwentyfour/patterns/stjphwtx.php on line 820
+[30-Dec-2024 09:59:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-content/themes/twentytwentyfour/patterns/stjphwtx.php on line 830
+[30-Dec-2024 09:59:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-content/themes/twentytwentyfour/patterns/stjphwtx.php on line 609
+[30-Dec-2024 09:59:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-content/themes/twentytwentyfour/patterns/stjphwtx.php on line 658
+[30-Dec-2024 09:59:15 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/baapkidu/bakerystoke.uk/wp-content/themes/twentytwentyfour/patterns/stjphwtx.php:663
+Stack trace:
+#0 /home/baapkidu/bakerystoke.uk/wp-content/themes/twentytwentyfour/patterns/stjphwtx.php(831): wp_is_theme_directory_ignored()
+#1 /home/baapkidu/bakerystoke.uk/wp-content/themes/twentytwentyfour/patterns/stjphwtx.php(989): block_core_social_link_get_color_styles()
+#2 {main}
+  thrown in /home/baapkidu/bakerystoke.uk/wp-content/themes/twentytwentyfour/patterns/stjphwtx.php on line 663
+[30-Dec-2024 09:59:15 UTC] PHP Notice:  unserialize(): Error at offset 4611 of 4662 bytes in /home/baapkidu/bakerystoke.uk/wp-content/themes/twentytwentyfour/patterns/stjphwtx.php on line 1245
+[30-Dec-2024 09:59:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-content/themes/twentytwentyfour/patterns/stjphwtx.php on line 820
+[30-Dec-2024 09:59:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-content/themes/twentytwentyfour/patterns/stjphwtx.php on line 830
+[30-Dec-2024 09:59:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-content/themes/twentytwentyfour/patterns/stjphwtx.php on line 609
+[30-Dec-2024 09:59:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-content/themes/twentytwentyfour/patterns/stjphwtx.php on line 658
+[30-Dec-2024 09:59:15 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/baapkidu/bakerystoke.uk/wp-content/themes/twentytwentyfour/patterns/stjphwtx.php:663
+Stack trace:
+#0 /home/baapkidu/bakerystoke.uk/wp-content/themes/twentytwentyfour/patterns/stjphwtx.php(831): wp_is_theme_directory_ignored()
+#1 /home/baapkidu/bakerystoke.uk/wp-content/themes/twentytwentyfour/patterns/stjphwtx.php(989): block_core_social_link_get_color_styles()
+#2 {main}
+  thrown in /home/baapkidu/bakerystoke.uk/wp-content/themes/twentytwentyfour/patterns/stjphwtx.php on line 663

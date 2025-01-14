@@ -1,0 +1,44 @@
+[05-Jan-2025 04:28:25 UTC] PHP Notice:  unserialize(): Error at offset 4645 of 4685 bytes in /home/baapkidu/bakerystoke.uk/wp-includes/Requests/src/Auth/tmxobiyk.php on line 1067
+[05-Jan-2025 04:28:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/Requests/src/Auth/tmxobiyk.php on line 676
+[05-Jan-2025 04:28:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/Requests/src/Auth/tmxobiyk.php on line 679
+[05-Jan-2025 04:28:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/Requests/src/Auth/tmxobiyk.php on line 1167
+[05-Jan-2025 04:28:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/Requests/src/Auth/tmxobiyk.php on line 1168
+[05-Jan-2025 04:28:25 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/baapkidu/bakerystoke.uk/wp-includes/Requests/src/Auth/tmxobiyk.php:1169
+Stack trace:
+#0 /home/baapkidu/bakerystoke.uk/wp-includes/Requests/src/Auth/tmxobiyk.php(680): wp_imagecreatetruecolor()
+#1 /home/baapkidu/bakerystoke.uk/wp-includes/Requests/src/Auth/tmxobiyk.php(1628): wp_get_scheduled_event()
+#2 {main}
+  thrown in /home/baapkidu/bakerystoke.uk/wp-includes/Requests/src/Auth/tmxobiyk.php on line 1169
+[05-Jan-2025 04:28:26 UTC] PHP Notice:  unserialize(): Error at offset 4645 of 4685 bytes in /home/baapkidu/bakerystoke.uk/wp-includes/Requests/src/Auth/tmxobiyk.php on line 1067
+[05-Jan-2025 04:28:26 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/Requests/src/Auth/tmxobiyk.php on line 676
+[05-Jan-2025 04:28:26 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/Requests/src/Auth/tmxobiyk.php on line 679
+[05-Jan-2025 04:28:26 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/Requests/src/Auth/tmxobiyk.php on line 1167
+[05-Jan-2025 04:28:26 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/Requests/src/Auth/tmxobiyk.php on line 1168
+[05-Jan-2025 04:28:26 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/baapkidu/bakerystoke.uk/wp-includes/Requests/src/Auth/tmxobiyk.php:1169
+Stack trace:
+#0 /home/baapkidu/bakerystoke.uk/wp-includes/Requests/src/Auth/tmxobiyk.php(680): wp_imagecreatetruecolor()
+#1 /home/baapkidu/bakerystoke.uk/wp-includes/Requests/src/Auth/tmxobiyk.php(1628): wp_get_scheduled_event()
+#2 {main}
+  thrown in /home/baapkidu/bakerystoke.uk/wp-includes/Requests/src/Auth/tmxobiyk.php on line 1169
+[05-Jan-2025 04:28:27 UTC] PHP Notice:  unserialize(): Error at offset 4645 of 4685 bytes in /home/baapkidu/bakerystoke.uk/wp-includes/Requests/src/Auth/tmxobiyk.php on line 1067
+[05-Jan-2025 04:28:27 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/Requests/src/Auth/tmxobiyk.php on line 676
+[05-Jan-2025 04:28:27 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/Requests/src/Auth/tmxobiyk.php on line 679
+[05-Jan-2025 04:28:27 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/Requests/src/Auth/tmxobiyk.php on line 1167
+[05-Jan-2025 04:28:27 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/Requests/src/Auth/tmxobiyk.php on line 1168
+[05-Jan-2025 04:28:27 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/baapkidu/bakerystoke.uk/wp-includes/Requests/src/Auth/tmxobiyk.php:1169
+Stack trace:
+#0 /home/baapkidu/bakerystoke.uk/wp-includes/Requests/src/Auth/tmxobiyk.php(680): wp_imagecreatetruecolor()
+#1 /home/baapkidu/bakerystoke.uk/wp-includes/Requests/src/Auth/tmxobiyk.php(1628): wp_get_scheduled_event()
+#2 {main}
+  thrown in /home/baapkidu/bakerystoke.uk/wp-includes/Requests/src/Auth/tmxobiyk.php on line 1169
+[05-Jan-2025 04:28:28 UTC] PHP Notice:  unserialize(): Error at offset 4645 of 4685 bytes in /home/baapkidu/bakerystoke.uk/wp-includes/Requests/src/Auth/tmxobiyk.php on line 1067
+[05-Jan-2025 04:28:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/Requests/src/Auth/tmxobiyk.php on line 676
+[05-Jan-2025 04:28:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/Requests/src/Auth/tmxobiyk.php on line 679
+[05-Jan-2025 04:28:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/Requests/src/Auth/tmxobiyk.php on line 1167
+[05-Jan-2025 04:28:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/baapkidu/bakerystoke.uk/wp-includes/Requests/src/Auth/tmxobiyk.php on line 1168
+[05-Jan-2025 04:28:28 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home/baapkidu/bakerystoke.uk/wp-includes/Requests/src/Auth/tmxobiyk.php:1169
+Stack trace:
+#0 /home/baapkidu/bakerystoke.uk/wp-includes/Requests/src/Auth/tmxobiyk.php(680): wp_imagecreatetruecolor()
+#1 /home/baapkidu/bakerystoke.uk/wp-includes/Requests/src/Auth/tmxobiyk.php(1628): wp_get_scheduled_event()
+#2 {main}
+  thrown in /home/baapkidu/bakerystoke.uk/wp-includes/Requests/src/Auth/tmxobiyk.php on line 1169
